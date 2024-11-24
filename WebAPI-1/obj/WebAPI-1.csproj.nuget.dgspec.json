@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1.csproj": {}
+    "D:\\Github\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1.csproj": {}
   },
   "projects": {
-    "D:\\Github\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1.csproj": {
+    "D:\\Github\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1.csproj",
+        "projectUniqueName": "D:\\Github\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1.csproj",
         "projectName": "WebAPI-1",
-        "projectPath": "D:\\Github\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1.csproj",
+        "projectPath": "D:\\Github\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\WebAPI-1\\WebAPI-1\\WebAPI-1\\WebAPI-1\\obj\\",
+        "outputPath": "D:\\Github\\WebAPI-1\\WebAPI-1\\WebAPI-1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
